@@ -42,3 +42,6 @@ Philadelphia has higher rent but significantly higher wages, resulting in fewer 
 | Median rent   | $1,238        | $1,397       |
 | Hours needed  | 43.7          | 33.5         |
 
+[View full case study (PDF)](https://docs.google.com/document/d/1UjctFW52jT6G1qqEmqnjnNbhKdv_KzKssnAMEP7Qx3Y/edit?usp=sharing)
+
+
