@@ -33,3 +33,12 @@ Files
 Summary
 
 Philadelphia has higher rent but significantly higher wages, resulting in fewer hours needed to afford housing. Sussex County’s lower wages and seasonal labor market widen the wage–rent gap, reducing affordability despite lower rent levels.
+
+## Comparison Table
+
+| Variable      | Sussex County | Philadelphia |
+|---------------|---------------|--------------|
+| Hourly wage   | $28.30        | $41.63       |
+| Median rent   | $1,238        | $1,397       |
+| Hours needed  | 43.7          | 33.5         |
+
